@@ -42,9 +42,9 @@ THEN the password is either displayed in an alert or written to the page
 
 ### **Links**
 
-[Link to the deployed website]
-[Screenshot Link] 
+[Link to the deployed website] ( https://bperez05.github.io/pass_gen/)
 [Link to the code repository] (https://github.com/bperez05/pass_gen.git)
+[Screenshot link] (https://drive.google.com/file/d/1V0MHsR_jf1SJTYgTtSxVQOJzw-QMJ4tt/view?usp=sharing)
 
 ## Credits
 Brandon Perez
