@@ -8,7 +8,7 @@ his week’s homework requires you to modify starter code to create an applicati
 
 ### **Tasks completed**
 
-Created a readme generator using node.js and inquirer.
+Created a password generator using js, html, and css.
 
 
 ## User Story
@@ -39,13 +39,10 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-## Screenshots and Video Link of application
-
-[README_gen]()
 
 ### **Links**
 
-[Link to the deployed website](https://watch.screencastify.com/v/r0PwWochSNwsEoN3Xnug)
+[Link to the deployed website]
 [Screenshot Link] 
 [Link to the code repository] (https://github.com/bperez05/pass_gen.git)
 
