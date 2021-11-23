@@ -53,11 +53,11 @@ THEN the password is either displayed in an alert or written to the page
 Brandon Perez
 
 ### References and tutorials utilized
-* Stack Overflow (https://stackoverflow.com/)
+* [Stack Overflow] (https://stackoverflow.com)
 * [BootCamp GitLab](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 * [Special Character links](https://www.owasp.org/index.php/Password_special_characters)
-* [BCS Learning Assistant]
-* [Instrcutor Jon Lynch]
+* BCS Learning Assistant
+* Instrcutor Jon Lynch
 
 MIT License
 
